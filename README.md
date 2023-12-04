@@ -18,4 +18,5 @@ Open a new issue, as detailed as possible. Fix and test issue locally. Create a 
 ## Contribution Guidelines
 
 HTML must be fully accessible, for keyboard and screen reader users.
+
 Algorithms must follow best software practices.
