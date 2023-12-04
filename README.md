@@ -9,3 +9,8 @@ To run AppBits locally, clone the main branch and run the following commands;
 npm install
 
 npm start
+
+
+# How You Can Contribute
+
+Open a new issue, as detailed as possible. Fix and test issue locally. Create a pull request to dev branch, and await review and/or merge.
