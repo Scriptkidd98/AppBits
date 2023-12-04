@@ -27,8 +27,6 @@ Open a new issue, as detailed as possible. Fix and test issue locally. Create a 
 
 ## Contribution Guidelines
 
-Unless stack/technology specific, all other components must be developed in vanilla (HTML, CSS, JavaScript), to facilitate easy integration into multi stack applications.
-
 HTML must be fully accessible, for keyboard and screen reader users.
 
 Algorithms must follow best software practices.
