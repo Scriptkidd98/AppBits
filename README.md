@@ -14,3 +14,8 @@ npm start
 # How You Can Contribute
 
 Open a new issue, as detailed as possible. Fix and test issue locally. Create a pull request to dev branch, and await review and/or merge.
+
+## Contribution Guidelines
+
+HTML must be fully accessible, for keyboard and screen reader users.
+Algorithms must follow best software practices.
