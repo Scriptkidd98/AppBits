@@ -8,7 +8,7 @@ To run AppBits locally, clone the main branch and run the following commands;
 
 `npm install`
 
-`npm start`
+`npm run dev`
 
 
 # How You Can Contribute
