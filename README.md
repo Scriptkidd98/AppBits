@@ -17,6 +17,8 @@ Open a new issue, as detailed as possible. Fix and test issue locally. Create a 
 
 ## Contribution Guidelines
 
+All components must be developed in vanilla (HTML, CSS, JavaScript)
+
 HTML must be fully accessible, for keyboard and screen reader users.
 
 Algorithms must follow best software practices.
