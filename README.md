@@ -13,6 +13,12 @@ To run AppBits locally, clone the main branch and run the following commands;
 
 # How You Can Contribute
 
+## For new contributors
+
+Create a new branch using format first_name-beta01 eg isaac-beta01. That'll be your personal branch where you can push commits to and create pull requests from.
+
+## For returning contributors
+
 Open a new issue, as detailed as possible. Fix and test issue locally. Create a pull request to dev branch, and await review and/or merge.
 
 ## Contribution Guidelines
