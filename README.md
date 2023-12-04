@@ -6,9 +6,9 @@ AppBits is an open source web application that serves as a repository for applic
 
 To run AppBits locally, clone the main branch and run the following commands; 
 
-npm install
+`npm install`
 
-npm start
+`npm start`
 
 
 # How You Can Contribute
@@ -17,7 +17,7 @@ Open a new issue, as detailed as possible. Fix and test issue locally. Create a 
 
 ## Contribution Guidelines
 
-All components must be developed in vanilla (HTML, CSS, JavaScript)
+All components must be developed in vanilla (HTML, CSS, JavaScript), to facilitate easy integration into multi stack applications.
 
 HTML must be fully accessible, for keyboard and screen reader users.
 
